@@ -1,6 +1,6 @@
 # Flegma
 
-Simple entity converter, used in command line interface.
+Simple network bandwidth throttler., used in command line interface.
 
 ## Installation
 
