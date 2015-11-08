@@ -1,6 +1,6 @@
 # Flegma
 
-Simple network bandwidth throttler.
+Simple network bandwidth throttler. **Doesn’t work on OS X 10.10+.**
 
 ## Installation
 
